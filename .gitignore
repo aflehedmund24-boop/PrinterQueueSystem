@@ -1,0 +1,11 @@
+# Compiled executable
+*.exe
+*.out
+*.o
+*.obj
+
+# Code::Blocks build output
+bin/
+obj/
+*.depend
+*.layout
